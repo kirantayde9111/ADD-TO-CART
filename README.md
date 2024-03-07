@@ -1,3 +1,5 @@
+# project Deploy url
+https://65e98b7a76bd4ad5978c10d3--stalwart-sopapillas-ff61b1.netlify.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
